@@ -1,5 +1,6 @@
 {
   "name": "frontend",
+  "homepage": "http://amnasalahudin.github.io/assignment1",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -30,7 +31,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "http://amnasalahudin.github.io/assignment1",
+ 
 
   "browserslist": {
     "production": [
