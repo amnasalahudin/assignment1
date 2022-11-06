@@ -3,7 +3,7 @@ import "./ViewProduct.css"
 import axios from "axios";
 import styled from "styled-components";
 
-
+import img695 from './img695.jpg'
 import cart from './cart.png'
 import Button from 'react-bootstrap/Button';
 import 'bootstrap/dist/css/bootstrap.min.css';
