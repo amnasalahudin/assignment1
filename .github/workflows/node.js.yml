@@ -33,4 +33,7 @@ jobs:
       
       
       - name: Deploy
-        run: npm run deploy
+        run: |
+           git config --global user.name amnasalahudin
+           git config --global user.email amnasalahudin@gmail.com
+           npm run deploy
