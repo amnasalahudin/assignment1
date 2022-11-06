@@ -1,6 +1,6 @@
 import React from "react"
 import "./homepage.css"
-import axios from "axios";
+
 import { useHistory } from "react-router-dom"
 
 const Homepage = ({setLoginUser}) => {
